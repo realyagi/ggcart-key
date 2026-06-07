@@ -52,10 +52,10 @@ function Write-Header {
         $sourceLink = "$esc]8;;https://github.com/qwe213312/k25FCdfEOoEJ42S6$esc\GitHub Mirror$esc]8;;$esc\"
         $sourcePad  = "    "
     }
-    $discordLink = "$esc]8;;https://discord.gg/luatools$esc\discord.gg/luatools$esc]8;;$esc\"
+    $discordLink = "$esc]8;;https://discord.gg/FJc3neAMPB$esc\https://discord.gg/FJc3neAMPB$esc]8;;$esc\"
     Write-Host "  +================================================================+" -ForegroundColor Cyan
-    Write-Host "  |        STEAM MANIFEST DOWNLOADER (For Steamtools)              |" -ForegroundColor Cyan
-    Write-Host "  |   Downloads Out-Of-Date Manifest Files From $sourceLink$sourcePad|" -ForegroundColor Cyan
+    Write-Host "  |        GGCART BY YAGISHEEP (For GGCART-LAUNCHER)              |" -ForegroundColor Cyan
+    Write-Host "  |   GET KEY FROM YAGISHEEP $sourceLink$sourcePad|" -ForegroundColor Cyan
     Write-Host "  |                                                                |" -ForegroundColor Cyan
     Write-Host "  |                   by $discordLink                       |" -ForegroundColor DarkCyan
     Write-Host "  +================================================================+" -ForegroundColor Cyan
